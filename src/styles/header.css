@@ -1,0 +1,11 @@
+header {
+  background-color: #eee;
+}
+
+header .logo {
+  display: inline-block;
+  width: 500px;
+  height: 263px;
+  padding-left: 520px;
+  background: url('./flags/flag.png') left center no-repeat;
+}
